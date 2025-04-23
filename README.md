@@ -11,6 +11,7 @@ Construir uma função simples em JavaScript que valide um e-mail informado em u
 - HTML5
 - JavaScript
 - Plataforma: [Playcode.io](https://playcode.io)
+- Projeto: https://2353627.playcode.io
 
 ## 💻 Funcionalidade
 
@@ -19,4 +20,5 @@ Construir uma função simples em JavaScript que valide um e-mail informado em u
 - Interface simples e interativa.
 
 ## 📂 Estrutura do Projeto
+/validacao-email-js ├── index.html # Formulário HTML ├── script.js # Lógica de validação em JavaScript └── README.md # Documentação do projeto
 

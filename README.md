@@ -20,5 +20,21 @@ Construir uma função simples em JavaScript que valide um e-mail informado em u
 - Interface simples e interativa.
 
 ## 📂 Estrutura do Projeto
-/validacao-email-js ├── index.html # Formulário HTML ├── script.js # Lógica de validação em JavaScript └── README.md # Documentação do projeto
+/validacao-email-js ├── index.html # Formulário HTML ├── script.js # Lógica de validação em JavaScript └── README.md # Documentação do projeto.
+
+
+## ✅ Como usar
+
+1. Acesse [Playcode.io](https://playcode.io)
+2. Crie um novo projeto vazio.
+3. Copie e cole o conteúdo dos arquivos `index.html` e `script.js` nos respectivos painéis.
+4. Teste com diferentes entradas de e-mail.
+
+## ✍️ Autor
+
+Francieudes Silva Noberto Alves
+
+---
+*Este projeto é acadêmico e parte integrante do curso de Análise e Desenvolvimento de Sistemas - UNOPAR.*
+
 
